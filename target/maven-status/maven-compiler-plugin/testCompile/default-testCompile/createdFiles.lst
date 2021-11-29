@@ -1,0 +1,13 @@
+com\k\utilities\MonitoringMail.class
+com\k\utilities\ExcelReader.class
+com\k\utilities\TestConfig.class
+com\k\testcases\AddCustomerTest.class
+com\k\utilities\MonitoringMail$1.class
+com\k\utilities\ExtentManager.class
+com\k\testcases\OpenAccountTest.class
+com\k\base\TestBase.class
+com\k\listeners\CustomListeners.class
+com\k\testcases\BankManagerLoginTest.class
+com\k\utilities\TestUtil.class
+com\k\utilities\TestHostAdd.class
+com\k\utilities\MonitoringMail$SMTPAuthenticator.class

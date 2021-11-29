@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Customer Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="3.116">
+  <properties />
+  
+            <testcase name="addCustomerTest" time="0.0" classname="com.k.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.k.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="addCustomerTest" time="1.569" classname="com.k.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="0.470" classname="com.k.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="0.564" classname="com.k.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="0.512" classname="com.k.testcases.AddCustomerTest" />
+      
+</testsuite>
